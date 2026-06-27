@@ -1,0 +1,17 @@
+{
+  "name": "mon-API",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Test de deployement",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
